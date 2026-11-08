@@ -24,7 +24,6 @@ Explore the CampusPulse dashboard here:
 ### Student Records
 ![Student Records](screenshots/records.jpeg)
 
-
 ## 🎯 Objectives
 
 - Analyze student academic performance.
