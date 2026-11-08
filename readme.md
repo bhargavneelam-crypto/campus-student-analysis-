@@ -13,6 +13,19 @@ Explore the CampusPulse dashboard here:
 
 [Launch CampusPulse](https://uj5wzr6w5ewr75z6ua4hfg.streamlit.app/)
 
+
+## 📸 Dashboard Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.jpeg)
+
+### Data Visualizations
+![Data Visualizations](screenshots/visualizations.jpeg)
+
+### Student Records
+![Student Records](screenshots/student-records.jpeg)
+
+
 ## 🎯 Objectives
 
 - Analyze student academic performance.
