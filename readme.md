@@ -7,6 +7,11 @@ CampusPulse is a student data analytics project developed using Python. It analy
 The main objective of CampusPulse is to explore student data, generate meaningful insights, and present the results through an interactive dashboard.
 
 The project uses Exploratory Data Analysis (EDA) and data visualization techniques to understand student academic performance.
+## 🌐 Live Demo
+
+Explore the CampusPulse dashboard here:
+
+[Launch CampusPulse](https://uj5wzr6w5ewr75z6ua4hfg.streamlit.app/)
 
 ## 🎯 Objectives
 
