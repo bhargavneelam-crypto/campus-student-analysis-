@@ -13,16 +13,16 @@ Explore the CampusPulse dashboard here:
 
 [Launch CampusPulse](https://uj5wzr6w5ewr75z6ua4hfg.streamlit.app/)
 
-## 📸 Dashboard Screenshots
+## 📸 CampusPulse Dashboard Screenshots
 
-### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard%20-overview.png.jpeg)
+### 1. Dashboard Overview
+![Dashboard Overview](./dashboard%20-overview.png.jpeg)
 
-### Data Visualizations
-![Data Visualizations](screenshots/visualization.png.jpeg)
+### 2. Data Visualizations
+![Data Visualizations](./visualization.png.jpeg)
 
-### Student Records
-![Student Records](screenshots/records.jpeg)
+### 3. Student Records
+![Student Records](./records.jpeg)
 
 ## 🎯 Objectives
 
